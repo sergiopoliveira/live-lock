@@ -1,0 +1,1 @@
+Live lock is similar to deadlock, but instead of the threads being blocked, they are constantly active and waiting for all the other threads to complete their tasks. Since all the threads are waiting for the others to complete, none of them can actually complete programs
